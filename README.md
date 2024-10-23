@@ -1,26 +1,26 @@
 # LLM-As-A-Judge
 LLM as a Judge is a framework that uses large language models (LLMs) to evaluate and assess the quality of content, responses, or performances, including outputs from other AI models. This approach has gained traction as a scalable alternative to human evaluation for assessing AI-generated content, particularly in cases where traditional metrics may not be suitable.
 
-Key Aspects of LLM as a Judge
+# Key Aspects of LLM as a Judge
 
-Functionality:
+# Functionality:
 LLMs are prompted to evaluate specific tasks or criteria
 They can assess quality, relevance, accuracy, and other factors
 The framework can be applied to various types of content and AI outputs
 
-Applications:
+# Applications:
 Evaluating AI model accuracy
 Automating grading in educational contexts
 Content moderation
 Benchmarking AI systems
 
-Advantages:
+# Advantages:
 Scalability: Can process large volumes of data quickly
 Consistency: Potentially more consistent than human evaluators
 Cost-effectiveness: Often cheaper than hiring human evaluators
 Versatility: Can be adapted to various evaluation tasks
 
-Implementation Methods
+# Implementation Methods
 LLM as a Judge can be implemented in several ways:
 
 Single Output Scoring:
@@ -34,7 +34,7 @@ Prompt Engineering:
 Carefully crafted prompts instruct the LLM on evaluation criteria
 May include few-shot examples to calibrate the judge's scoring
 
-Challenges and Considerations
+# Challenges and Considerations
 While LLM as a Judge offers many benefits, it's important to be aware of potential limitations:
 
 Biases:
